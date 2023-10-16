@@ -1,8 +1,9 @@
 # Sustainable Development Goal Analysis
+---
 
 ## Africa Internet Users Analysis
 
-##Table of Contents
+## Table of Contents
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
@@ -78,7 +79,6 @@ Based on the analysis, i recommend the following actions;
 💻
 
 |Heading1|Heading2|
-|..........|.............|
+|-------|--------|
 |Content|Content2|
-|Python|
-|SQL|
+|Python|SQL|
