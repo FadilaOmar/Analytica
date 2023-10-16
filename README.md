@@ -17,6 +17,11 @@
 
 This data analysis project aims to provide insights into the population of Africans with access to internet in the year 2020. by analyzing various aspects of African Internet Users data, I seek to identify trends,gain a deeper understanding of how accessible internet is to Africans, and as well make data-driven recommendations.
 
+![Dashboard](AfricanInternetUserVisual.PNG)
+
+![AfricanInternetUserVisual](https://github.com/FadilaOmar/Analytica/assets/147044763/7f7c1a7a-218a-4d9b-96b5-37d15ca8c2e4)
+
+
 ### Data Sources
 
 Africa Internet Users Data: The primary dataset used for this analysis is the "AfricaInternetUsers.csv" file, containing detailed information about total internet user in various African countries.
