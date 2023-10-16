@@ -73,4 +73,12 @@ Based on the analysis, i recommend the following actions;
 - Workshops and seminars to educate Africans on the advantages using the internet should be organised by the governments more often.
 - More internet gadgets and tools should be deployed into the education system.
 
+😃  
 
+💻
+
+|Heading1|Heading2|
+|..........|.............|
+|Content|Content2|
+|Python|
+|SQL|
