@@ -2,6 +2,15 @@
 
 ## Africa Internet Users Analysis
 
+##Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Analysis](#exploratory-analysis)
+- [Data Analysis](#data-analysis)
+
 ### Project Overview
 
 This data analysis project aims to provide insights into the population of Africans with access to internet in the year 2020. by analyzing various aspects of African Internet Users data, I seek to identify trends,gain a deeper understanding of how accessible internet is to Africans, and as well make data-driven recommendations.
